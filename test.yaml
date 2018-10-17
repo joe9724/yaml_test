@@ -1,0 +1,9 @@
+cache:
+  enable : false
+  list : [redis,mongoDB]
+mysql:
+  user : Root
+  password : PassWord
+  host : 192.168.30.111
+  port : 63306
+  name : jstv
